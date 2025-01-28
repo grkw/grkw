@@ -4,9 +4,7 @@ I'm currently on a gap year, where I'm taking the time to explore my interests a
 - A letter-writing site using React and Supabase
 - An interpreter for an esolang called Piet using Rust
 
-In the past, I've built:
-- A motion primitive sampler using deep imitation learning to accelerate an online long-horizon quadcopter planner. 
-- The drone model validation tool at Zipline and root-caused system instability in the a rocket engine at Blue Origin.
+In the past, I've built a motion primitive sampler using deep imitation learning to accelerate an online long-horizon quadcopter planner. I also built the drone model validation tool at Zipline and root-caused system instability in the a rocket engine at Blue Origin.
 
 I graduated from UCLA with a B.S. in Electrical Engineering in June 2024 as a Regents Scholar. 
 <!--
