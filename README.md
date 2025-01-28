@@ -1,12 +1,11 @@
-I’m a robotics researcher interested in generalizable, data-efficient embodied intelligence via compositional learned models. My keywords are *deep learning*, *generative models*, *trajectory planning*, and *decision-making*.
+I’m a robotics researcher interested in generalizable, data-efficient embodied intelligence. My keywords are *deep learning*, *generative models*, *trajectory planning*, and *decision-making*.
 
-I'm currently on a gap year, where I'm taking the time to explore my interests at the Recurse Center while applying to PhD programs in CS. I've built:
-- A letter-writing site using React and Supabase
-- An interpreter for an esolang called Piet using Rust
+I'm currently on a gap year, where I'm taking the time to explore new interests at the [Recurse Center](https://www.recurse.com/) before embarking on my PhD in Computer Science in Fall 2025. Recently, I've built:
+- [Open When](https://www.openwhen.site/), a letter-writing site using React and Supabase
+- [Gratie](https://github.com/grkw/gratie), an interpreter for an esolang called Piet using Rust
+- [Endstate Selector](https://github.com/grkw/endstate_selector_model), a motion primitive sampler using deep imitation learning to accelerate an online long-horizon quadcopter planner
 
-In the past, I've built a motion primitive sampler using deep imitation learning to accelerate an online long-horizon quadcopter planner. I also built the drone model validation tool at Zipline and root-caused system instability in the a rocket engine at Blue Origin.
-
-I graduated from UCLA with a B.S. in Electrical Engineering in June 2024 as a Regents Scholar. 
+I graduated from [UCLA](https://ucla.edu/) with a B.S. in Electrical Engineering in June 2024 as a Regents Scholar. I also built the drone model validation tool at [Zipline](https://www.flyzipline.com/) and root-caused system instability in a rocket engine at [Blue Origin](https://www.blueorigin.com/).
 <!--
 **grkw/grkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
