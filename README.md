@@ -1,4 +1,4 @@
-I’m a robotics researcher interested in generalizable, data-efficient embodied intelligence. My keywords are *deep learning*, *generative models*, *trajectory planning*, and *decision-making*.
+I’m interested in generalizable, data-efficient embodied intelligence. My keywords are *deep learning*, *generative models*, *trajectory planning*, and *decision-making*.
 
 I'm currently on a gap year, where I'm taking the time to explore new interests at the [Recurse Center](https://www.recurse.com/) before embarking on my PhD in Computer Science in Fall 2025. Recently, I've built:
 - [Open When](https://www.openwhen.site/), a letter-writing site using React and Supabase
